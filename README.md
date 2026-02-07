@@ -542,59 +542,8 @@ Based on our comprehensive scan:
 
 ---
 
-## 11. Appendices
 
-### Appendix A: Repository Inventory Data
-**File**: `Book1_updated.xlsx`
-- Sheet 1: All Repositories (532)
-- Sheet 2: Existing Repositories (301)
-- Sheet 3: Not Found Repositories (231)
 
-### Appendix B: Dependency Analysis Reports
-- `qs_dependency_report.html` - QS package usage analysis
-- `QS_DEPENDENCY_SUMMARY.md` - QS dependency summary
-- `wildcard_versions_report_remote.html` - Node.js wildcard versions
-- `PYTHON_WILDCARD_REPORT.md` - Python dependency issues
-
-### Appendix C: Process Documentation
-- `QUICK_START.md` - Quick start guide for tools
-- `GITHUB_TOKEN_SETUP.md` - Authentication setup
-- `MULTI_SHEET_REPORT_INFO.md` - Excel report documentation
-
-### Appendix D: Technical Tools
-- `scan_github_repos_detailed.js` - Repository scanner
-- `scan_qs_dependency.js` - QS dependency scanner
-- `scan_python_wildcards.js` - Python dependency scanner
-- `create_multi_sheet_report.js` - Excel report generator
-
----
-
-## 12. Contact Information
-
-### Repository Management Team
-- **DevOps Team**: devops@contentstack.com
-- **Security Team**: security@contentstack.com
-- **Platform Engineering**: platform@contentstack.com
-
-### Support Resources
-- **Internal Wiki**: [Link to wiki]
-- **Security Portal**: [Link to security portal]
-- **Dependency Dashboard**: [Link to dashboard]
-
----
-
-## Document Control
-
-| Version | Date | Author | Changes |
-|---------|------|--------|---------|
-| 1.0 | Feb 2026 | Platform Team | Initial comprehensive inventory |
-
----
-
-**Classification**: Internal  
-**Distribution**: Platform Engineering, Security, DevOps  
-**Review Cycle**: Quarterly  
-**Next Review**: May 2026
 
 ---
 
